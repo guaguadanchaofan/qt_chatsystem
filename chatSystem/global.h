@@ -9,6 +9,7 @@
 #include <mutex>
 #include <QByteArray>
 #include <QtNetwork/QNetworkReply>
+#include <QJsonObject>
 /*
  * 刷新qss
 */
